@@ -1,1 +1,8 @@
-# Learnify-Application
+# Learnify-Application![Screenshot 2022-08-09 235531](https://user-images.githubusercontent.com/87235058/183734770-e335a5f1-0a87-4bf5-8b14-d65cb164d944.png)
+![Screenshot 2022-08-09 235552](https://user-images.githubusercontent.com/87235058/183734788-c59291bb-708e-4eb7-b37a-eff8f63eb686.png)
+![Screenshot 2022-08-09 235632](https://user-images.githubusercontent.com/87235058/183734801-7b85c5a4-3041-44e4-a80e-3eb2ac334fd0.png)
+![Screenshot 2022-08-09 235750](https://user-images.githubusercontent.com/87235058/183734817-08537444-f2e0-4d36-80d4-ed0457f225c8.png)
+![Screenshot 2022-08-09 235823](https://user-images.githubusercontent.com/87235058/183734928-844f0dcf-39b0-4a08-a0c6-d2e4bc077407.png)
+![Screenshot 2022-08-09 235920](https://user-images.githubusercontent.com/87235058/183734937-e503a134-3529-491d-956f-ef46259ffe20.png)
+![Screenshot 2022-08-09 235954](https://user-images.githubusercontent.com/87235058/183734945-1ec8cb4d-a9a5-485b-b8aa-292c96782c70.png)
+![Screenshot 2022-08-10 000026](https://user-images.githubusercontent.com/87235058/183734963-e649d4d7-c4bb-43ea-afdf-4be3b7519610.png)
